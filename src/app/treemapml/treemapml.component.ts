@@ -72,8 +72,7 @@ export class RsTreeMapComponentMultilevel extends BaseChartComponent {
   margin = [5, 5, 5, 5];
 
   update(): void {
-    // tiene i children
-
+    // keep subtrees
     if (this.results && this.results.length > 0) {
       this.results.forEach(element => {
         if (element.children) {
