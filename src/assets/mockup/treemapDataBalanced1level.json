@@ -1,0 +1,80 @@
+[
+  {
+    "name": "2017",
+    "value": 670000,
+    "children": [
+      {
+        "name": "Nord-ovest",
+        "value": 200000
+      },
+      {
+        "name": "Nord-Est",
+        "value": 100000
+      },
+      {
+        "name": "Centro-Nord",
+        "value": 90000
+      },
+      {
+        "name": "Sud",
+        "value": 80000
+      },
+      {
+        "name": "Estero",
+        "value": 150000
+      }
+    ]
+  },
+  {
+    "name": "2018",
+    "value": 685000,
+    "children": [
+      {
+        "name": "Nord-ovest",
+        "value": 250000
+      },
+      {
+        "name": "Nord-Est",
+        "value": 105000
+      },
+      {
+        "name": "Centro-Nord",
+        "value": 95000
+      },
+      {
+        "name": "Sud",
+        "value": 85000
+      },
+      {
+        "name": "Estero",
+        "value": 150000
+      }
+    ]
+  },
+  {
+    "name": "2019",
+    "value": 760000,
+    "children": [
+      {
+        "name": "Nord-ovest",
+        "value": 300000
+      },
+      {
+        "name": "Nord-Est",
+        "value": 110000
+      },
+      {
+        "name": "Centro-Nord",
+        "value": 100000
+      },
+      {
+        "name": "Sud",
+        "value": 90000
+      },
+      {
+        "name": "Estero",
+        "value": 160000
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "2017",
+    "value": 350000,
+    "children": [
+      {
+        "name": "Nord-ovest",
+        "value": 200000,
+        "children": [
+          {
+            "name": "Torino",
+            "value": 50000
+          },
+          {
+            "name": "Milano",
+            "value": 150000
+          }
+        ]
+      },
+      {
+        "name": "Estero1",
+        "value": 150000
+      }
+    ]
+  }
+]

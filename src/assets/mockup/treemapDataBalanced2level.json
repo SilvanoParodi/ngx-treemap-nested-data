@@ -1,0 +1,68 @@
+[
+  {
+    "name": "2018",
+    "value": 685000,
+    "children": [
+      {
+        "name": "Nord-ovest",
+        "value": 250000,
+        "children": [
+          {
+            "name": "Genova",
+            "value": 100000
+          },
+          {
+            "name": "Torino",
+            "value": 100000
+          },
+          {
+            "name": "Cuneo",
+            "value": 50000
+          }
+        ]
+      },
+      {
+        "name": "Nord-Est",
+        "value": 105000,
+        "children": [
+          {
+            "name": "Verona",
+            "value": 50000
+          },
+          {
+            "name": "Padova",
+            "value": 55000
+          }
+        ]
+      },
+      {
+        "name": "Centro-Nord",
+        "value": 95000,
+        "children": [
+          {
+            "name": "Firenze",
+            "value": 60000
+          },
+          {
+            "name": "Bologna",
+            "value": 35000
+          }
+        ]
+      },
+      {
+        "name": "Sud",
+        "value": 85000,
+        "children": [
+          {
+            "name": "Palermo",
+            "value": 30000
+          },
+          {
+            "name": "Napoli",
+            "value": 55000
+          }
+        ]
+      }
+    ]
+  }
+]
