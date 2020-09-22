@@ -1,5 +1,5 @@
 
-![GitHub Logo](/treemap.png)
+![Example](treemap.png)
 
 
 # TreeMap
