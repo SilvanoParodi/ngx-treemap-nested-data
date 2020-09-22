@@ -1,8 +1,5 @@
+# TreeMap [![Awesome](https://github.com/SilvanoParodi/ngx-treemap-nested-data/blob/master/treemap.PNG)]()
 
-![Example](treemap.png)
-
-
-# TreeMap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
